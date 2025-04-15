@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "23a2548fe0d2bf52",
+    "type": "split",
+    "children": [
+      {
+        "id": "680fd9fc4c141f88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac905511394ec877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Decorators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decorators"
+            }
+          },
+          {
+            "id": "3154743ebdb8cbee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDIA/Ch1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch1"
+            }
+          },
+          {
+            "id": "4adb51c6abedc6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diet/QuickMeals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QuickMeals"
+            }
+          },
+          {
+            "id": "4b778909af112147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMU-DB-2024/Lec11.Sorting&AggregationAlgorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lec11.Sorting&AggregationAlgorithms"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edaa054c61245bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e36698a739c422f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79349a28c765950a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6acdbc1a06880cf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5fca84d33865f74d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a3a987270cf09b3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba7a234dd3b7687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50834ee7abfb6d85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diet/QuickMeals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for QuickMeals"
+            }
+          },
+          {
+            "id": "19c935432d623212",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diet/QuickMeals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from QuickMeals"
+            }
+          },
+          {
+            "id": "a5d65ff72787a9d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b857193de58cd7fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diet/QuickMeals.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of QuickMeals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b778909af112147",
+  "lastOpenFiles": [
+    "CMU-DB-2024/Lec10.IndexConcurrencyControl.md",
+    "CMU-DB-2024/Lec7.HashTables✸RelationalAIDatabaseTalk.md",
+    "CMU-DB-2024/image-111.png",
+    "CMU-DB-2024/image-110.png",
+    "CMU-DB-2024/image-109.png",
+    "CMU-DB-2024/image-108.png",
+    "CMU-DB-2024/image-106.png",
+    "CMU-DB-2024/image-107.png",
+    "CMU-DB-2024/image-105.png",
+    "CMU-DB-2024/image-104.png",
+    "CMU-DB-2024/Lec9.VectorIndexes,InvertedIndexes,Filters,Tries.md",
+    "CMU-DB-2024/Lec6.Memory&DiskI.md",
+    "CMU-DB-2024/image-103.png",
+    "CMU-DB-2024/image-102.png",
+    "CMU-DB-2024/Lec8.Tree-Indexes-BTrees.md",
+    "CMU-DB-2024/Lec9.md",
+    "CMU-DB-2024/Lec4.Log-StructuredMergeTrees&Tuples.md",
+    "CMU-DB-2024/Lec8.md",
+    "CMU-DB-2024/Lec3.DBStorage-Files&Pages.md",
+    "CMU-DB-2024/Lec5.RowVS.ColumnStorage+Compression.md",
+    "CMU-DB-2024/Lec1.Relationalmodel&Algebra.md",
+    "CMU-DB-2024/Lec6.Memory&DiskI/OManagement.md",
+    "CMU-DB-2024/Lec6.Memory&DiskI",
+    "cyber/EbrahemHegazy.md",
+    "cyber/EbrahemHegazy.pdf",
+    "CMU-DB-2024/Lec2.ModernSQL.md",
+    "Diet/TefaMeals.md",
+    "create a link.md",
+    "CMU-DB-2024/Lec1.md",
+    "cyber/cyberSources.md",
+    "DDIA/Ch1.md",
+    "Untitled.md",
+    "Typescript/Decorators.md",
+    "DDIA",
+    "Typescript",
+    "Welcome.md",
+    "cmd5.org.md",
+    "mdToPDFConverter.js",
+    "Angular/Hany_labib-lectures/Lec2_AngularProjectStructure.md",
+    "Angular/Hany_labib-lectures/Lec1_IntroToWeb.md",
+    "Angular/Hany_labib-lectures/Lec1.md",
+    "Angular/Hany_labib-lectures",
+    "Angular/Hany_labib-",
+    "Angular"
+  ]
+}
